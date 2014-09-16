@@ -1,0 +1,5 @@
+# Put the resources in this folder (download link in README!)
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore

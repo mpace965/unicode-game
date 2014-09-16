@@ -1,0 +1,5 @@
+# Put SFML directories in here! 
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
